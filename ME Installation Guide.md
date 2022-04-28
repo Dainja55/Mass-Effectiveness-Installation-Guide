@@ -65,7 +65,7 @@ To ensure that Origin does not automatically update the game for you,
 
 #### Set the Game language to English
 
-I'm not really sure how to localize, you guys are totally up to it if you can. This Modlist is in English so are 99% of all mods made for Mass Effect LE. I think the most compatible, or only compatible, way to play the game is to have it be in English. I'm also not sure how region lock effects the game, but I personally don't think it should be an issue, except for countries that basically ban freedom of thought.
+I'm not really sure how to localize, you guys are totally up to it if you can. This Modlist is in English and so are 99% of all mods made for Mass Effect LE. I think the most compatible, or only compatible, way to play the game is to have it be in English. I'm also not sure how region lock effects the game, but I personally don't think it should be an issue, except for countries that basically ban freedom of thought.
 
 **I will not give support to people with a non-English game**. I liked to if could, but it simply isn't feasible.
 
