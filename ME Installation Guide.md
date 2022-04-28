@@ -84,7 +84,7 @@ I absolutely recommend uninstalling the game through Steam, deleting the game fo
 
 Let's get to the actual installation..
 
-Grab the latest release of Wabbajack from [here](https://www.wabbajack.org/#/) (just click the big blue Download button). Place the `Wabbajack.exe` file in a blank folder at the root of a drive, such as `C:/Wabbajack`. Please do not put it in a Windows Protected Directory, such as Program Files or your Desktop. If you're using Windows 11, do this to give yourself admin permissions for c:/wj folder you created in your c:/ drive
+Grab the latest release of Wabbajack from [here](https://www.wabbajack.org/#/) (just click the big blue Download button). Place the `Wabbajack.exe` file in a blank folder at the root of a drive, such as `C:/Wabbajack`. Please do not put it in a Windows Protected Directory, such as Program Files or your Desktop. If you're using Windows 11, do this to give yourself admin permissions for `C:/Wabbajack` folder you created in your `C drive`.
 
 Launch Wabbajack. The exe will download the rest of the program from Github and extract itself wherever you placed the exe. When it is finished extracting and installing itself, select the `Browse Modlists` option. Click the Download arrow for Magnum Opus, and you will be forwarded to the next screen when it is finished.
 
