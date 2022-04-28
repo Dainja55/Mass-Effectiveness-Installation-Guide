@@ -1,38 +1,33 @@
 # Mass-Effectiveness-Installation-Guide
-- [Magnum Opus](#magnum-opus)
-- [Preamble](#preamble)
+- [Mass Effectiveness](#mass-effectiveness)
+- [Intro](#intro)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
-    - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-packages)
-      - [Visual Studio 2015, 2017, 2019, and 2022](#visual-studio-2015-2017-2019-and-2022)
-      - [Visual Studio 2012 (VC++ 11.0) Update 4](#visual-studio-2012-vc-110-update-4)
     - [Steam Config](#steam-config)
       - [Disable the Steam Overlay](#disable-the-steam-overlay)
-    - [Change Steams Update Behavior](#change-steams-update-behavior)
+    - [Change Steam's Update Behavior](#change-steam's-update-behavior)
+    - [Change Origin's Update Behavior](#change-origin's-update-behavior)
     - [Set the Game language to English](#set-the-game-language-to-english)
-    - [Clean Fallout 4](#clean-fallout-4)
+    - [Clean Mass Effect Legendary Install](#clean-mass-effect-legendary-install)
+    - [Backing Up main LE Installation From Your Library](#backing-up-main-le-installation-from-your-library)
   - [Using Wabbajack](#using-wabbajack)
     - [Preparations](#preparations)
       - [Problems with Wabbajack](#problems-with-wabbajack)
-  - [Post-Installation](#post-installation)
+  - [Post-Wabbajack-Downloads](#post-wabbajack-downloads)
     - [Copy Game Folder Files](#copy-game-folder-files)
     - [Launching the Game](#launching-the-game)
 - [Updating](#updating)
-- [BiRaitBec Texture Optimization](#biraitbec-texture-optimization)
-- [Noteworthy Mods](#noteworthy-mods)
-- [Creation Club Support](#creation-club-support)
-- [A Few Quick Notes](#a-few-quick-notes)
-- [In-Game MCM Options](#in-game-mcm-options)
+- [A Few Notes](#a-few-notes)
 - [FAQ](#faq)
 - [Controller Support](#controller-support)
-- [ENB](#enb)
+- [ReShade](#reshade)
 - [Widescreen Support](#widescreen-support)
 - [Credits and Thanks](#credits-and-thanks)
 - [Contact](#contact)
 
 ---
 
-# Preamble
+# Intro
 
 ---
 
