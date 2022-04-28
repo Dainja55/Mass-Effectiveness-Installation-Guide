@@ -31,23 +31,15 @@
 
 ---
 
-### Magnum Opus
+### Mass Effectiveness
 
-Magnum Opus is what one would describe as a "kitchen sink list." There is no specific focus or aspect I really care about. There is no specific goal I'm trying to achieve. I just want to have fun.
+Mass Effectiveness blah blah [Life in the Ruins](https://www.wabbajack.org/#/modlists/info?machineURL=life_in_the_ruins).
 
-This means if I like a mod, it's going in. There is no such thing as "it doesn't fit my aesthetic" or "it goes against the theme of the list." The theme is fun.
+Is Mass Effectiveness for you?
 
-To that end, I like new content. I like new areas, new quests, new NPCs, new weapons, new outfits, new faces. You'll find all of that - and a whole lot more - in this list. I genuinely hope you enjoy it as much as I do.
-
-This list is NOT built with Survival Mode in mind. I don't play it. I don't like it. If you want Survival, you should play [Fallout 4 Enhanced Edition](https://www.wabbajack.org/#/modlists/info?machineURL=fallout_4_enhanced_edition) or [Life in the Ruins](https://www.wabbajack.org/#/modlists/info?machineURL=life_in_the_ruins).
-
-Is Magnum Opus for you? I don't know, but [this video by DroppedIceCream might help you decide](https://youtu.be/Q2s84pTpkwE).
-
-**Please read this readme in its entirety.**
+**Please read this guide in its entirety.**
 
 **Please read the FAQ again before reporting an issue or asking me a question.**
-
-**Please consult the in-game Magnum Opus Beginner's Guide terminal outside Vault 111 before alt-tabbing out to Discord to ask for my help.**
 
 ---
 
@@ -57,43 +49,29 @@ Is Magnum Opus for you? I don't know, but [this video by DroppedIceCream might h
 
 ### Pre-Installation
 
-You need a legal copy of Fallout 4 through Steam, with all DLCs **EXCEPT** the High Definition DLC. This is garbage and should not be used in any case ever.
+You need a legal copy of Mass Effect Legendary Edition through Steam or Origin
 
-These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
-
-#### Installing Microsoft Visual C++ Redistributable Packages
-
-These packages are required for MO2 and for the BiRaitBec Texture Optimization step respectively, and you can download them from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
-
-##### Visual Studio 2015, 2017, 2019, and 2022
-
-Download the x64 version under [Visual Studio 2015, 2017, 2019, and 2022](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022).
-
-[Direct Link](https://aka.ms/vs/17/release/vc_redist.x64.exe) if you can't find it.
-
-##### Visual Studio 2012 (VC++ 11.0) Update 4
-
-Download the x64 version under [Visual Studio 2012 (VC++ 11.0) Update 4](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2012-vc-110-update-4).
-
-[Direct Link](https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x64.exe) if you can't find it.
+These steps are only for installing this Modlist for the first time. If you are updating the Modlist, go to [Updating](#updating).
 
 #### Steam Config
 
-#### Change Steams Update Behavior
+#### Change Steam's Update Behavior
 
-Fallout 4 is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
+To ensure that Steam does not automatically update the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
 
-To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
+#### Change Origin's Update Behavior
+
+To ensure that Origin does not automatically update the game for you, 
 
 #### Set the Game language to English
 
-Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**. I really wish I could, but at this time, it simply isn't feasible.
+I'm not really sure how to localize, you guys are totally up to it if you can. This Modlist is in English so are 99% of all mods made for Mass Effect LE. I think the most compatible, or only compatible, way to play the game is to have it be in English. I'm also not sure how region lock effects the game, but I personally don't think it should be an issue, except for countries that basically ban freedom of thought.
 
-Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
+**I will not give support to people with a non-English game**. I liked to if could, but it simply isn't feasible.
 
-#### Clean Fallout 4
+#### Clean Mass Effect Legendary Install
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Fallout 4` folder in `Documents/My Games/`. **Make sure you run the game once** to establish your registry path - otherwise, Wabbajack will be unable to locate the game directory, and thus cannot install the modlist.
+I absolutely recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You also need to delete the `Mass Effect Legendary Edition` folder in `Documents/My Games/BioWare`. **Make sure you run the game once** to establish your registry path - otherwise, Wabbajack will be unable to locate the game directory, and you won't be able to download the mods :(.
 
 ---
 
