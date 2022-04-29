@@ -81,7 +81,7 @@ Right click Mass Effect Legendary Edition > properties > language > select Engli
 
 #### Set the Game Language to English in Origin
 
-
+Open Program Files(x86) > Origin > double click "Origin.exe" > click "My Game Library" (right clicking the game in "Recent game" under "My Home" doesen't work for some reason) > right click Mass Effect LE > game properties > advanced lanch options > select English from the dropdown menu > save > close Origin 
 
 #### Note on Localization
 
