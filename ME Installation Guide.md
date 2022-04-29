@@ -11,7 +11,7 @@
     - [Set the Game language to English in Origin](#set-the-game-language-to-english-in-origin)
     - [Note on Localization](#note-on-localization)
     - [Disable the Steam Overlay](#disable-the-steam-overlay)
-    - [Disable the Origin Overlay](#disable-the-origin-overlay)
+    - [Disable the Origin Overlay and Other Origin BS](#disable-the-origin-overlay-and-other-origin-bs)
     - [Disable the Nvidia Overlay](#disable-the-nvidia-overlay)
     - [Clean Mass Effect Legendary Install](#clean-mass-effect-legendary-install)
     - [Backing Up Main LE Installation From Your Library](#backing-up-main-le-installation-from-your-library)
@@ -69,11 +69,11 @@ If you're installing Origin for the first time I recommend choosing these settin
 
 #### Change Steams Update Behavior
 
-To ensure that Steam does not automatically update the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
+To ensure that Steam does not automatically update the game for you, Open steam > right click Mass Effect LE > Properties > UPDATES > choose "Only update this game when I launch it" under AOUTOMATIC UPDATES and select Never allow
 
 #### Change Origins Update Behavior
 
-To ensure that Origin does not automatically update the game for you, 
+To ensure that Origin does not automatically update the game for you, Open Origin > click Origin at the top left of the window > application settings > scroll down and turn off "Automatic Game Updates"
 
 #### Set the Game Language to English in Steam
 
@@ -87,9 +87,42 @@ Open Program Files(x86) > Origin > double click "Origin.exe" > click "My Game Li
 
 I'm not really sure how to localize, you guys are totally up to it if you can. This Modlist is in English and so are 99% of all mods made for Mass Effect LE. I think the most compatible, or only compatible, way to play the game is to have it be in English. I'm also not sure how region lock effects the game, but I personally don't think it should be an issue, except for countries that basically ban freedom of thought.
 
+**I will not give support to people with a non-English game**. I'd liked to if I could, but I won't be able to.
+
 #### Disable the Steam Overlay
 
-**I will not give support to people with a non-English game**. I liked to if could, but it simply isn't feasible.
+Open steam > right click Mass Effect LE > Properties > GENERAL > uncheck Steam Overlay
+#### Disable the Origin Overlay and Other Origin BS
+
+## UNDER THE "APPLICATION" TAB:
+
+Default Screen -> Game Library
+Show Origin after gameplay -> Off
+Automatic game updates -> Off
+Automatically update Origin -> Off
+Participate in Origin technical previews -> Off
+Automatically start Origin -> Off
+Origin Helper service -> Off
+
+## UNDER THE "DIAGNOSTICS" TAB:
+
+Share hardware info -> Off
+Share system interaction data -> Off
+Origin crash reporting -> Off
+Origin In-Game logging -> Off
+
+(optional) UNDER THE "INSTALLS & SAVES" TAB:
+
+Saves -> Off
+
+## UNDER THE "INSTALLS & SAVES" TAB:
+
+Enable Origin In-Game -> Off
+Display FPS Counter -> Off
+
+#### Disable the Nvidia Overlay
+
+Open Nvidia GeForce Experience > 
 
 #### Clean Mass Effect Legendary Install
 
