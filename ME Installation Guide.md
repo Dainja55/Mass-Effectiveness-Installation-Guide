@@ -3,13 +3,18 @@
 - [Intro](#intro)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
-    - [Steam Config](#steam-config)
-      - [Disable the Steam Overlay](#disable-the-steam-overlay)
+    - [Steam Config](#steam-and-origin-configs)
+    - [Origin Config](#steam-and-origin-configs)
     - [Change Steam's Update Behavior](#change-steam's-update-behavior)
     - [Change Origin's Update Behavior](#change-origin's-update-behavior)
-    - [Set the Game language to English](#set-the-game-language-to-english)
+    - [Set the Game language to English Steam](#set-the-game-language-to-english-steam)
+    - [Set the Game language to English in Origin](#set-the-game-language-to-english-origin)
+    - [Note on Localization](#note-on-localization)
+    - [Disable the Steam Overlay](#disable-the-steam-overlay)
+    - [Disable the Origin Overlay](#disable-the-origin-overlay)
+    - [Disable the Nvidia Overlay](#disable-the-nvidia-overlay)
     - [Clean Mass Effect Legendary Install](#clean-mass-effect-legendary-install)
-    - [Backing Up main LE Installation From Your Library](#backing-up-main-le-installation-from-your-library)
+    - [Backing Up Main LE Installation From Your Library](#backing-up-main-le-installation-from-your-library)
   - [Using Wabbajack](#using-wabbajack)
     - [Preparations](#preparations)
       - [Problems with Wabbajack](#problems-with-wabbajack)
@@ -54,7 +59,13 @@ You need a legal copy of Mass Effect Legendary Edition through Steam or Origin
 
 These steps are only for installing this Modlist for the first time. If you are updating the Modlist, go to [Updating](#updating).
 
-#### Steam Config
+---
+
+### Steam and Origin Configs
+
+If you're installing Origin for the first time I recommend choosing these settings; however, you can change this in the Origin launcher too.
+
+![image](https://user-images.githubusercontent.com/77590002/165959635-a8a5b6c0-aaf2-49ac-8fff-d3ff5e19393b.png)
 
 #### Change Steam's Update Behavior
 
@@ -64,15 +75,31 @@ To ensure that Steam does not automatically update the game for you, head over t
 
 To ensure that Origin does not automatically update the game for you, 
 
-#### Set the Game language to English
+#### Set the Game Language to English in Steam
+
+Right click Mass Effect Legendary Edition > properties > language > select English from the dropdown menu.
+
+#### Set the Game Language to English in Origin
+
+
+
+#### Note on Localization
 
 I'm not really sure how to localize, you guys are totally up to it if you can. This Modlist is in English and so are 99% of all mods made for Mass Effect LE. I think the most compatible, or only compatible, way to play the game is to have it be in English. I'm also not sure how region lock effects the game, but I personally don't think it should be an issue, except for countries that basically ban freedom of thought.
+
+#### Disable the Steam Overlay
 
 **I will not give support to people with a non-English game**. I liked to if could, but it simply isn't feasible.
 
 #### Clean Mass Effect Legendary Install
 
 I absolutely recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You also need to delete the `Mass Effect Legendary Edition` folder in `Documents/My Games/BioWare`. **Make sure you run the game once** to establish your registry path - otherwise, Wabbajack will be unable to locate the game directory, and you won't be able to download the mods :(.
+
+#### Backing Up Main LE Installation From Your Library
+
+For Steam, right click on Mass Effect Legendary Edition > Manage > Browse Local Files > right click "Game" > copy to a folder of your choice, but I recomend `c:/WJ/Vanilla Game Backups`
+
+For Origin
 
 ---
 
