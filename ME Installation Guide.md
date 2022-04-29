@@ -5,8 +5,8 @@
   - [Pre-Installation](#pre-installation)
     - [Steam Config](#steam-and-origin-configs)
     - [Origin Config](#steam-and-origin-configs)
-    - [Change Steam's Update Behavior](#change-steam's-update-behavior)
-    - [Change Origin's Update Behavior](#change-origin's-update-behavior)
+    - [Change Steams Update Behavior](#change-steams-update-behavior)
+    - [Change Origins Update Behavior](#change-origins-update-behavior)
     - [Set the Game language to English Steam](#set-the-game-language-to-english-in-steam)
     - [Set the Game language to English in Origin](#set-the-game-language-to-english-in-origin)
     - [Note on Localization](#note-on-localization)
@@ -67,11 +67,11 @@ If you're installing Origin for the first time I recommend choosing these settin
 
 ![image](https://user-images.githubusercontent.com/77590002/165959635-a8a5b6c0-aaf2-49ac-8fff-d3ff5e19393b.png)
 
-#### Change Steam's Update Behavior
+#### Change Steams Update Behavior
 
 To ensure that Steam does not automatically update the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
 
-#### Change Origin's Update Behavior
+#### Change Origins Update Behavior
 
 To ensure that Origin does not automatically update the game for you, 
 
