@@ -1,4 +1,4 @@
-# Mass-Enjoyment-Loving-Everything-Installation-Guide
+# Mass Enjoyment Loving Everything Installation Guide
 - [Mass Enjoyment Loving Everything](#mass-enjoyment-loving-everything)
 - [Intro](#intro)
 - [Installation](#installation)
