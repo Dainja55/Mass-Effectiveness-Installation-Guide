@@ -1,5 +1,5 @@
-# Mass-Effectiveness-Installation-Guide
-- [Mass Effectiveness](#mass-effectiveness)
+# Mass-Enjoyment-Loving-Everything-Installation-Guide
+- [Mass Enjoyment Loving Everything](#mass-enjoyment-loving-everything)
 - [Intro](#intro)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
@@ -37,11 +37,11 @@
 
 ---
 
-### Mass Effectiveness
+### Mass Enjoyment Loving Everything
 
-Mass Effectiveness is my attempt to bring together as much fun, QOL changes, texture fixes, consistency, combat refining, and additions as I possibly can without breaking the game. [Here it is](url)
+Mass Enjoyment Loving Everything is my attempt to bring together as much fun, QOL changes, texture fixes, consistency, combat refining, and additions as I possibly can without breaking the game. [Here it is](url)
 
-Is Mass Effectiveness for you? Probably. If you want lore-friendly fixes and additions, plus some extra goodies to spice things up, you've come to the right place.
+Is Mass Enjoyment Loving Everything for you? Probably. If you want lore-friendly fixes and additions, plus some extra goodies to spice things up, you've come to the right place.
 
 **Please read this guide in its entirety.**
 
@@ -143,17 +143,17 @@ For Origin, you'll have to find the games manually in your Origin installation
 
 ---
 
-Let's get to the actual installation..
+This is where the fun begins...
 
-Grab the latest release of Wabbajack [here](https://www.wabbajack.org/#/) (click the big blue Download button). Place the `Wabbajack.exe` file in a blank folder at the root of a drive, I advise `C:/wj/Wabbajck`. Please do not put it in a Windows Protected Directory, such as Program Files or your Desktop. 
+Download Wabbajack [here](https://www.wabbajack.org/#/) (click the Download button). Place the `Wabbajack.exe` file in a blank folder at the root of a drive, I advise `C:/wj/Wabbajck`. Please do not put it in a Windows Protected Directory, such as Program Files or your Desktop. 
 
-If you're using Windows 11, do this to give yourself admin permissions for `C:/Wabbajack` folder you created in your `C drive`
+If you're using Windows 11, follow the steps below to give yourself admin permissions for `C:/wj` folder you created in your `C drive`
 
 
 
-Launch Wabbajack. The exe will download the rest of the program from Github and extract itself wherever you placed the exe. When it is finished extracting and installing itself, select the `Browse Modlists` option. Click the Download arrow for Magnum Opus, and you will be forwarded to the next screen when it is finished.
+Launch Wabbajack. The program will be installed where you placed it. When it finishes installing, run wabbajack and click `Browse Modlists`. Click the Download arrow for Mass Enjoyment Loving Everything, and you will be forwarded to the next screen when it is finished.
 
-Set the `Installation Location` to a blank folder at the root of a drive, such as `c:\wj\Mass Effectiveness`. The `Download Location` will update automatically. Again, please avoid using Windows Protected Directories.
+Set the `Installation Location` to a blank folder at the root of a drive, such as `c:\wj\Mass Enjoyment Loving Everything`. The `Download Location` will update automatically. Again, please avoid using Windows Protected Directories.
 
 Click the `Play` arrow. If you have a Nexus Premium account, all of your downloads will be automated. Without Premium, you will need to manually click the Download button for each mod. Installation will be automated regardless of your account status.
 
@@ -161,7 +161,7 @@ Click the `Play` arrow. If you have a Nexus Premium account, all of your downloa
 
 ### Manual Downloads
 
-Some mods for MELE only have manual download links. Sorry, you'll have to download these manually. Place them in the Downloads folder within the Mass Effectiveness modpack folder that wabbajack created (example: `c:/wj/mass effectiveness/mo2/downloads)`. I'll specify the version of the mod you'll need if necessary, so always get the most recent version of all mods listed below.
+Some mods for MELE only have manual download links. Sorry, you'll have to download these manually. Place them in the Downloads folder within the Mass Enjoyment Loving Everything modpack folder that wabbajack created (example: `c:/wj/mass effectiveness/mo2/downloads)`. I'll specify the version of the mod you'll need if necessary, so always get the most recent version of all mods listed below.
 
 [ME3 Tweaks](https://www.nexusmods.com/masseffectlegendaryedition/mods/2?tab=files)
 
