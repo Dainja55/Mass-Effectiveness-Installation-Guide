@@ -145,7 +145,7 @@ For Origin, you'll have to find the games manually in your Origin installation
 
 Let's get to the actual installation..
 
-Grab the latest release of Wabbajack [here](https://www.wabbajack.org/#/) (click the big blue Download button). Place the `Wabbajack.exe` file in a blank folder at the root of a drive, such as `C:/wj`. Please do not put it in a Windows Protected Directory, such as Program Files or your Desktop. 
+Grab the latest release of Wabbajack [here](https://www.wabbajack.org/#/) (click the big blue Download button). Place the `Wabbajack.exe` file in a blank folder at the root of a drive, I advise `C:/wj/Wabbajck`. Please do not put it in a Windows Protected Directory, such as Program Files or your Desktop. 
 
 If you're using Windows 11, do this to give yourself admin permissions for `C:/Wabbajack` folder you created in your `C drive`
 
