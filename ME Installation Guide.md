@@ -39,7 +39,7 @@
 
 ### Mass Effectiveness
 
-Mass Effectiveness is my attempt to bring together as much fun, QOL changes, texture fixes, consistency, combat refining, and additions as I possibly can without breaking the game. [Here it is.](url).
+Mass Effectiveness is my attempt to bring together as much fun, QOL changes, texture fixes, consistency, combat refining, and additions as I possibly can without breaking the game. [Here it is](url)
 
 Is Mass Effectiveness for you? Probably. If you want lore-friendly fixes and additions, plus some extra goodies to spice things up, you've come to the right place.
 
