@@ -123,7 +123,7 @@ Display FPS Counter -> Off
 
 ## Disable the Nvidia Overlay
 
-Open Nvidia GeForce Experience > 
+Open Nvidia GeForce Experience > click the settings cog at the top of the window near your profile name > General > turn off IN-GAME OVERLAY
 
 ## Clean Mass Effect Legendary Install
 
