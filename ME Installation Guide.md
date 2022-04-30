@@ -131,9 +131,9 @@ I absolutely recommend uninstalling the game through Steam, deleting the game fo
 
 ## Backing Up Main LE Installation From Your Library
 
-For Steam, right click on Mass Effect Legendary Edition > Manage > Browse Local Files > right click "Game" > copy to a folder of your choice, but I recomend `c:/WJ/Vanilla Game Backups`
+In steam, right click on Mass Effect Legendary Edition > Manage > Browse Local Files > right click "Game" > copy to a folder of your choice, but I recomend `c:/WJ/Vanilla Game Backups`
 
-For Origin
+For Origin, you'll have to find the games manually in your Origin installation
 
 ---
 
@@ -145,7 +145,11 @@ For Origin
 
 Let's get to the actual installation..
 
-Grab the latest release of Wabbajack from [here](https://www.wabbajack.org/#/) (just click the big blue Download button). Place the `Wabbajack.exe` file in a blank folder at the root of a drive, such as `C:/Wabbajack`. Please do not put it in a Windows Protected Directory, such as Program Files or your Desktop. If you're using Windows 11, do this to give yourself admin permissions for `C:/Wabbajack` folder you created in your `C drive`.
+Grab the latest release of Wabbajack [here](https://www.wabbajack.org/#/) (click the big blue Download button). Place the `Wabbajack.exe` file in a blank folder at the root of a drive, such as `C:/wj`. Please do not put it in a Windows Protected Directory, such as Program Files or your Desktop. 
+
+If you're using Windows 11, do this to give yourself admin permissions for `C:/Wabbajack` folder you created in your `C drive`
+
+
 
 Launch Wabbajack. The exe will download the rest of the program from Github and extract itself wherever you placed the exe. When it is finished extracting and installing itself, select the `Browse Modlists` option. Click the Download arrow for Magnum Opus, and you will be forwarded to the next screen when it is finished.
 
