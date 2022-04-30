@@ -143,6 +143,8 @@ For Origin
 
 #### Preparations
 
+---
+
 Let's get to the actual installation..
 
 Grab the latest release of Wabbajack from [here](https://www.wabbajack.org/#/) (just click the big blue Download button). Place the `Wabbajack.exe` file in a blank folder at the root of a drive, such as `C:/Wabbajack`. Please do not put it in a Windows Protected Directory, such as Program Files or your Desktop. If you're using Windows 11, do this to give yourself admin permissions for `C:/Wabbajack` folder you created in your `C drive`.
@@ -152,6 +154,8 @@ Launch Wabbajack. The exe will download the rest of the program from Github and 
 Set the `Installation Location` to a blank folder at the root of a drive, such as `D:\Magnum Opus`. The `Download Location` will update automatically. Again, please avoid using Windows Protected Directories.
 
 Click the `Play` arrow. If you have a Nexus Premium account, all of your downloads will be automated. Without Premium, you will need to manually click the Download button for each mod. Installation will be automated regardless of your account status.
+
+---
 
 ### Manual Downloads
 
