@@ -149,7 +149,7 @@ Grab the latest release of Wabbajack from [here](https://www.wabbajack.org/#/) (
 
 Launch Wabbajack. The exe will download the rest of the program from Github and extract itself wherever you placed the exe. When it is finished extracting and installing itself, select the `Browse Modlists` option. Click the Download arrow for Magnum Opus, and you will be forwarded to the next screen when it is finished.
 
-Set the `Installation Location` to a blank folder at the root of a drive, such as `D:\Magnum Opus`. The `Download Location` will update automatically. Again, please avoid using Windows Protected Directories.
+Set the `Installation Location` to a blank folder at the root of a drive, such as `c:\wj\Mass Effectiveness`. The `Download Location` will update automatically. Again, please avoid using Windows Protected Directories.
 
 Click the `Play` arrow. If you have a Nexus Premium account, all of your downloads will be automated. Without Premium, you will need to manually click the Download button for each mod. Installation will be automated regardless of your account status.
 
@@ -157,7 +157,7 @@ Click the `Play` arrow. If you have a Nexus Premium account, all of your downloa
 
 ### Manual Downloads
 
-Some mods for MELE only have manual download links. Sorry, you'll have to download these manually. Place them in the Downloads folder within the Mass Effectiveness modpack folder that wabbajack created (example: `c:/wj/mass effectiveness/mo2/downloads)`. I'll specify the version of the mod you'll need if necessary, so always get the most recent version of all mods here. (example: c:/wj/mass effectiveness/mo2/downloads)
+Some mods for MELE only have manual download links. Sorry, you'll have to download these manually. Place them in the Downloads folder within the Mass Effectiveness modpack folder that wabbajack created (example: `c:/wj/mass effectiveness/mo2/downloads)`. I'll specify the version of the mod you'll need if necessary, so always get the most recent version of all mods listed below.
 
 [ME3 Tweaks](https://www.nexusmods.com/masseffectlegendaryedition/mods/2?tab=files)
 
