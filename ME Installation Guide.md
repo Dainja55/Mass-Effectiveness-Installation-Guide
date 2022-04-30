@@ -139,8 +139,6 @@ For Origin
 
 ### Using Wabbajack
 
----
-
 #### Preparations
 
 ---
