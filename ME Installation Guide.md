@@ -39,9 +39,9 @@
 
 ### Mass Effectiveness
 
-Mass Effectiveness blah blah [Life in the Ruins](https://www.wabbajack.org/#/modlists/info?machineURL=life_in_the_ruins).
+Mass Effectiveness is my attempt to bring together as much fun, QOL changes, texture fixes, consistency, combat refining, and additions as I possibly can without breaking the game. [Here it is.](url).
 
-Is Mass Effectiveness for you?
+Is Mass Effectiveness for you? Probably. If you want lore-friendly fixes and additions, plus some extra goodies to spice things up, you've come to the right place.
 
 **Please read this guide in its entirety.**
 
@@ -53,7 +53,7 @@ Is Mass Effectiveness for you?
 
 ---
 
-### Pre-Installation
+## Pre-Installation
 
 You need a legal copy of Mass Effect Legendary Edition through Steam or Origin
 
@@ -61,40 +61,41 @@ These steps are only for installing this Modlist for the first time. If you are 
 
 ---
 
-### Steam and Origin Configs
+## Steam and Origin Configs
 
 If you're installing Origin for the first time I recommend choosing these settings; however, you can change this in the Origin launcher too.
 
 ![image](https://user-images.githubusercontent.com/77590002/165959635-a8a5b6c0-aaf2-49ac-8fff-d3ff5e19393b.png)
 
-#### Change Steams Update Behavior
+## Change Steams Update Behavior
 
 To ensure that Steam does not automatically update the game for you, Open steam > right click Mass Effect LE > Properties > UPDATES > choose "Only update this game when I launch it" under AOUTOMATIC UPDATES and select Never allow
 
-#### Change Origins Update Behavior
+## Change Origins Update Behavior
 
 To ensure that Origin does not automatically update the game for you, Open Origin > click Origin at the top left of the window > application settings > scroll down and turn off "Automatic Game Updates"
 
-#### Set the Game Language to English in Steam
+## Set the Game Language to English in Steam
 
 Right click Mass Effect Legendary Edition > properties > language > select English from the dropdown menu.
 
-#### Set the Game Language to English in Origin
+## Set the Game Language to English in Origin
 
 Open Program Files(x86) > Origin > double click "Origin.exe" > click "My Game Library" (right clicking the game in "Recent game" under "My Home" doesen't work for some reason) > right click Mass Effect LE > game properties > advanced lanch options > select English from the dropdown menu > save > close Origin 
 
-#### Note on Localization
+## Note on Localization
 
 I'm not really sure how to localize, you guys are totally up to it if you can. This Modlist is in English and so are 99% of all mods made for Mass Effect LE. I think the most compatible, or only compatible, way to play the game is to have it be in English. I'm also not sure how region lock effects the game, but I personally don't think it should be an issue, except for countries that basically ban freedom of thought.
 
 **I will not give support to people with a non-English game**. I'd liked to if I could, but I won't be able to.
 
-#### Disable the Steam Overlay
+## Disable the Steam Overlay
 
 Open steam > right click Mass Effect LE > Properties > GENERAL > uncheck Steam Overlay
-#### Disable the Origin Overlay and Other Origin BS
 
-## UNDER THE "APPLICATION" TAB:
+## Disable the Origin Overlay and Other Origin BS
+
+### UNDER THE "APPLICATION" TAB:
 
 Default Screen -> Game Library
 Show Origin after gameplay -> Off
@@ -104,7 +105,7 @@ Participate in Origin technical previews -> Off
 Automatically start Origin -> Off
 Origin Helper service -> Off
 
-## UNDER THE "DIAGNOSTICS" TAB:
+### UNDER THE "DIAGNOSTICS" TAB:
 
 Share hardware info -> Off
 Share system interaction data -> Off
@@ -115,20 +116,20 @@ Origin In-Game logging -> Off
 
 Saves -> Off
 
-## UNDER THE "INSTALLS & SAVES" TAB:
+### UNDER THE "INSTALLS & SAVES" TAB:
 
 Enable Origin In-Game -> Off
 Display FPS Counter -> Off
 
-#### Disable the Nvidia Overlay
+## Disable the Nvidia Overlay
 
 Open Nvidia GeForce Experience > 
 
-#### Clean Mass Effect Legendary Install
+## Clean Mass Effect Legendary Install
 
 I absolutely recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You also need to delete the `Mass Effect Legendary Edition` folder in `Documents/My Games/BioWare`. **Make sure you run the game once** to establish your registry path - otherwise, Wabbajack will be unable to locate the game directory, and you won't be able to download the mods :(.
 
-#### Backing Up Main LE Installation From Your Library
+## Backing Up Main LE Installation From Your Library
 
 For Steam, right click on Mass Effect Legendary Edition > Manage > Browse Local Files > right click "Game" > copy to a folder of your choice, but I recomend `c:/WJ/Vanilla Game Backups`
 
