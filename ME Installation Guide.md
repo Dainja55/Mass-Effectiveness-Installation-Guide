@@ -127,7 +127,7 @@ Open Nvidia GeForce Experience > click the settings cog at the top of the window
 
 ## Clean Mass Effect Legendary Install
 
-I absolutely recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You also need to delete the `Mass Effect Legendary Edition` folder in `Documents/My Games/BioWare`. **Make sure you run the game once** to establish your registry path - otherwise, Wabbajack will be unable to locate the game directory, and you won't be able to download the mods :(.
+I absolutely recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You also need to delete the `Mass Effect Legendary Edition` folder in `Documents/My Games/BioWare`. **Make sure you run the game once** to establish your registry path - otherwise, Wabbajack will be unable to locate the game directory, and you won't be able to download the mods :(
 
 ## Backing Up Main LE Installation From Your Library
 
