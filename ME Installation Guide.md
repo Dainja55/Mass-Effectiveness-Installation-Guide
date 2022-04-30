@@ -157,7 +157,7 @@ Click the `Play` arrow. If you have a Nexus Premium account, all of your downloa
 
 ### Manual Downloads
 
-Some mods for MELE only have manual download links. Sorry, you'll have to download these manually. Place them in the Downloads folder within the Mass Effectiveness modpack folder that wabbajack created. (example: c:/wj/mass effectiveness/mo2/downloads)
+Some mods for MELE only have manual download links. Sorry, you'll have to download these manually. Place them in the Downloads folder within the Mass Effectiveness modpack folder that wabbajack created (example: `c:/wj/mass effectiveness/mo2/downloads)`. I'll specify the version of the mod you'll need if necessary, so always get the most recent version of all mods here. (example: c:/wj/mass effectiveness/mo2/downloads)
 
 [ME3 Tweaks](https://www.nexusmods.com/masseffectlegendaryedition/mods/2?tab=files)
 
